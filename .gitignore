@@ -8,4 +8,5 @@
 /dist/
 # Editor configuraton files:
 /typings/
+/composer.lock
 /.vscode/
